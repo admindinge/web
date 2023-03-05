@@ -1,3 +1,7 @@
+ -------------------------------------
+[Browsersync] Serving files from: ./
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+
 # ეს არის პროექტის შაბლონი
 # პროექტის აწყობა Gulp 4
 
